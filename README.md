@@ -12,7 +12,7 @@ Updated at : 02/18/2022</h5>
 
 
 <h2 id="project 1"> project01 : pulloption </h2>
-<img width="80%" src="https://github.com/eeuuais/proj_pulloption/assets/98333290/21384f46-1bef-4982-b672-b40b6638f544"/>
+<img width="100%" src="https://github.com/eeuuais/proj_pulloption/assets/98333290/21384f46-1bef-4982-b672-b40b6638f544"/>
 
 <p align="justify"> 
   
