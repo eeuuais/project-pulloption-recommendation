@@ -12,11 +12,10 @@ Updated at : 02/18/2022</h5>
 
 
 <h2 id="project 1"> project01 : pulloption </h2>
-<img src="풀옵션 이미지">
+<img width="80%" src="https://github.com/eeuuais/proj_pulloption/assets/98333290/21384f46-1bef-4982-b672-b40b6638f544"/>
 
 <p align="justify"> 
-![React image](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-
+  
 ## 1. 프로젝트 개요
 
 - 프로젝트명 : AI기반 헬시 푸드 추천서비스 <Pull-Option>
