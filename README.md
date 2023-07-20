@@ -8,7 +8,7 @@ Updated at : 02/18/2022</h5>
 
 
 <!-- 프로젝트1 내용 -->
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 <h2 id="project 1"> project01 : pulloption </h2>
