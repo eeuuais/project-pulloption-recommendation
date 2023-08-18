@@ -1,5 +1,4 @@
-<h1 align="center"> project list </h1>
-<h3 align="center"> 수행 프로젝트 </h3>
+<h1 align="center"> project </h1>
 <h5 align="center"> Created by : Soyeon Sohn<br>
 Created at : 02/18/2023<br>
 Updated at : 02/18/2022</h5>
