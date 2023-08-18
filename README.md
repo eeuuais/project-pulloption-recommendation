@@ -1,11 +1,11 @@
 <h1 align="center"> AI기반 헬시 푸드 추천서비스 Pull-Option </h1>
-![------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h5 align="center"> Created by : Soyeon Sohn<br>
 Created at : 02/18/2023<br>
 Updated at : 02/18/2022</h5>
 
 
 
+![------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <img width="100%" src="https://github.com/eeuuais/proj_pulloption/assets/98333290/21384f46-1bef-4982-b672-b40b6638f544"/>
 
 <p align="justify"> 
